@@ -1,7 +1,7 @@
 Hi, this is your Git file.  Answer the following:
 
 1. My name is : Cameron
-2. My teammates names are: Luke, Cameron, Eric
+2. My teammates names are: Luke, Jon, Eric
 3. My favorite programming language is : C++
 4. The name of my semester long mobile application is :
 
