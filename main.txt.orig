@@ -18,6 +18,9 @@ Hi, this is your Git file.  Answer the following:
 1. My name is : Jonathan
 2. My teammates names are: Cameron, Luke, Jonathan
 3. My favorite programming language is : C++
-4. The name of my semester long mobile application is : Something else
+<<<<<<< HEAD
 4. The name of my semester long mobile application is : something
+=======
+4. The name of my semester long mobile application is : Something else
+>>>>>>> 0e59880adb329eca53b05a64d90223d0f10055a4
 >>>>>>> 87e4340259d44f18455015a8a1a07ba40eda3b38
