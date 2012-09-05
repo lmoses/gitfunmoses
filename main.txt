@@ -15,6 +15,7 @@ Hi, this is your Git file.  Answer the following:
 
 =======
 1. My name is : Eric
+1. My name is : Jonathan
 2. My teammates names are: Cameron, Luke, Jonathan
 3. My favorite programming language is : C++
 4. The name of my semester long mobile application is : Something else
