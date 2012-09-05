@@ -10,12 +10,12 @@ Hi, this is your Git file.  Answer the following:
 1. My name is : Cameron
 2. My teammates names are: Luke, Jon, Eric
 3. My favorite programming language is : Objective C
-4. The name of my semester long mobile application is : mountain finder
+4. The name of my semester long mobile application is : Mountain Finder
 >>>>>>> ddde4d1bfffb67e89d1269b2c851023593e46dc0
 
 =======
 1. My name is : Eric
 2. My teammates names are: Cameron, Luke, Jonathan
 3. My favorite programming language is : C++
-4. The name of my semester long mobile application is : 
+4. The name of my semester long mobile application is : Something else
 >>>>>>> 87e4340259d44f18455015a8a1a07ba40eda3b38
