@@ -21,3 +21,8 @@ Hi, this is your Git file.  Answer the following:
 4. The name of my semester long mobile application is : Something else
 4. The name of my semester long mobile application is : something
 >>>>>>> 87e4340259d44f18455015a8a1a07ba40eda3b38
+
+
+merging is a pain
+reverting a specific file is a pain
+errors are not very specific
