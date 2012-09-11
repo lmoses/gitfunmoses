@@ -26,3 +26,5 @@ Hi, this is your Git file.  Answer the following:
 merging is a pain
 reverting a specific file is a pain
 errors are not very specific
+
+cameron's image file added: c7Io3.jpg
