@@ -37,3 +37,6 @@ couldn't add to repo as images was already in the .gitignore, this is a great ex
 that can happen.  According to certain sites .gitignore generally contain .exe files and image files, probably
 javascript files and stuff that doesn't need updated or tracked.  Executable code is just regenerated locally
 and not tracked.
+
+day 38,
+i added and removed some stuff, seemed to work fine, not sure if i did the branches right, i wish i had some water, if you read this we should discuss it tomorrow.
