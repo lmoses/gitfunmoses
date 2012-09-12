@@ -1,0 +1,2 @@
+Because the images.gitignore file was merged before I added
+an image, I can not add an image to the repo.
