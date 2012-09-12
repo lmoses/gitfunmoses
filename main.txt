@@ -19,4 +19,24 @@ Hi, this is your Git file.  Answer the following:
 2. My teammates names are: Cameron, Luke, Jonathan
 3. My favorite programming language is : C++
 4. The name of my semester long mobile application is : Something else
+4. The name of my semester long mobile application is : something
 >>>>>>> 87e4340259d44f18455015a8a1a07ba40eda3b38
+
+
+merging is a pain
+reverting a specific file is a pain
+errors are not very specific
+
+cameron's image file added: c7Io3.jpg
+Luke's image added: lemons.jpg
+
+seemed to work well, i accidently added the .gitignore before eric got his image in so i guess he couldn't.
+
+added image space.jpg
+couldn't add to repo as images was already in the .gitignore, this is a great example of possible errors
+that can happen.  According to certain sites .gitignore generally contain .exe files and image files, probably
+javascript files and stuff that doesn't need updated or tracked.  Executable code is just regenerated locally
+and not tracked.
+
+day 38,
+i added and removed some stuff, seemed to work fine, not sure if i did the branches right, i wish i had some water, if you read this we should discuss it tomorrow.
