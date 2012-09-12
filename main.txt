@@ -33,6 +33,7 @@ Luke's image added: lemons.jpg
 seemed to work well, i accidently added the .gitignore before eric got his image in so i guess he couldn't.
 
 added image space.jpg
+added image smiley_face.jpg
 couldn't add to repo as images was already in the .gitignore, this is a great example of possible errors
 that can happen.  According to certain sites .gitignore generally contain .exe files and image files, probably
 javascript files and stuff that doesn't need updated or tracked.  Executable code is just regenerated locally
