@@ -1,0 +1,43 @@
+Hi, this is your Git file.  Answer the following:
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+1. My name is : Jonathan
+=======
+<<<<<<< HEAD
+1. My name is : Cameron
+2. My teammates names are: Luke, Jon, Eric
+3. My favorite programming language is : Objective C
+4. The name of my semester long mobile application is : mountain finder
+
+=======
+1. My name is : Eric
+>>>>>>> ddde4d1bfffb67e89d1269b2c851023593e46dc0
+2. My teammates names are: Cameron, Luke, Jonathan
+3. My favorite programming language is : C++
+4. The name of my semester long mobile application is : EzBrzy Homework Planner
+=======
+<<<<<<< HEAD
+1. My name is : Luke Moses 
+2. My teammates names are:Jonathan, Eric, Cameron
+3. My favorite programming language is : Bash
+4. The name of my semester long mobile application is :
+=======
+1. My name is : Cameron
+2. My teammates names are: Luke, Jon, Eric
+3. My favorite programming language is : Objective C
+4. The name of my semester long mobile application is : Mountain Finder
+>>>>>>> ddde4d1bfffb67e89d1269b2c851023593e46dc0
+
+=======
+1. My name is : Eric
+1. My name is : Jonathan
+2. My teammates names are: Cameron, Luke, Jonathan
+3. My favorite programming language is : C++
+<<<<<<< HEAD
+4. The name of my semester long mobile application is : something
+=======
+4. The name of my semester long mobile application is : Something else
+>>>>>>> 0e59880adb329eca53b05a64d90223d0f10055a4
+>>>>>>> 3e25ce26d1df32a9512499a9669e0ac020fc9ab7
+>>>>>>> 87e4340259d44f18455015a8a1a07ba40eda3b38

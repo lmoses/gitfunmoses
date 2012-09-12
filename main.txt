@@ -41,3 +41,5 @@ and not tracked.
 
 day 38,
 i added and removed some stuff, seemed to work fine, not sure if i did the branches right, i wish i had some water, if you read this we should discuss it tomorrow.
+
+Jonathan is making changes to this file as per insructions in phase 3
