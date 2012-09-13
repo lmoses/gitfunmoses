@@ -43,3 +43,9 @@ day 38,
 i added and removed some stuff, seemed to work fine, not sure if i did the branches right, i wish i had some water, if you read this we should discuss it tomorrow.
 
 Jonathan is making changes to this file as per insructions in phase 3, and now here is Eric's changes for phase 3 on my branch, part 1.
+
+The process of forking, then cloning, then working with branches and getting them back to the master from the original
+can be a little confusing, but once you figure it out, it seems to work pretty well.  The branching technique
+works really well, and switching between them is easy to try different stuff.  The workflow is pretty straight forward.
+Unless you need to maintain branches it seems like a good idea to merge your working branch into your master branch
+for ease of merging prior to your update/push back to the master repo branch. -Eric
