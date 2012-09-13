@@ -1,2 +1,4 @@
 Because the images.gitignore file was merged before I added
 an image, I can not add an image to the repo.
+
+I'm adding to my doc after a branch for phase 3, step 1.
